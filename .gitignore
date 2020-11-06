@@ -1,0 +1,8 @@
+# pycharm files
+/.idea/
+
+# mac files
+.DS_Store
+
+# virtual environments
+/venv/
