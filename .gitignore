@@ -6,3 +6,6 @@
 
 # virtual environments
 venv/
+
+# python compiled folder
+__pycache__/
