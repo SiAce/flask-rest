@@ -1,8 +1,8 @@
 # pycharm files
-/.idea/
+.idea/
 
 # mac files
 .DS_Store
 
 # virtual environments
-/venv/
+venv/
